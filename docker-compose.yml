@@ -1,0 +1,15 @@
+version: '3'
+services:
+  orange-web:
+    restart: always
+    build: .
+    ports:
+      - "80:80"
+  db-server:
+    image: 'mariadb:11.2'
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: SK123.
+      MARIADB_USER: orangehrm
+      MARIADB_PASSWORD: SK123.
+      MARIADB_DATABASE: orangedb

@@ -14,7 +14,8 @@ This is a Docker installation of `OrangeHRM` that includes the following:
 - MARIADB_DATABASE: orangedb
 
 ### Coming soon
-	Next release will include the download of **OrangeHRM** on the latest version right from the oficial site. This will improve the amount of data stored locally to run this Docker installation.
+	Next release will include the download of OrangeHRM on the latest version right from the oficial site. 
+	This will improve the amount of data stored locally to run this Docker installation.
 
 ### Development
 This `Docker` installation has been developed by Eng. Jibsan Rosa and is currently on `v1.0`
