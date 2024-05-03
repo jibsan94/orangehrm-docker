@@ -8,10 +8,10 @@ This is a Docker installation of `OrangeHRM` that includes the following:
 - Running on a base image of `Ubuntu 22.04`
 
 ### The credentials for `MariaDB` database and users:
-- MARIADB_ROOT_PASSWORD: SK123.
-- MARIADB_USER: orangehrm
-- MARIADB_PASSWORD: SK123.
-- MARIADB_DATABASE: orangedb
+- **MARIADB_ROOT_PASSWORD**: SK123.
+- **MARIADB_USER**: orangehrm
+- **MARIADB_PASSWORD**: SK123.
+- **MARIADB_DATABASE**: orangedb
 
 ### Coming soon
 	Next release will include the download of OrangeHRM on the latest version right from the oficial site. 
