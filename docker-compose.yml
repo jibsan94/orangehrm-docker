@@ -9,7 +9,7 @@ services:
     image: 'mariadb:11.2'
     restart: always
     environment:
-      MARIADB_ROOT_PASSWORD: SK123.
+      MARIADB_ROOT_PASSWORD: orange2024.
       MARIADB_USER: orangehrm
-      MARIADB_PASSWORD: SK123.
+      MARIADB_PASSWORD: orange2024.
       MARIADB_DATABASE: orangedb
